@@ -1,2 +1,2 @@
 # Python-Calculator-
-A Basic python calculator
+This is a basic Git and Calculator app :)
