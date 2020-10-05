@@ -27,4 +27,9 @@ class Calculator:
         b_clear = self.addButton('c')
         b_equal = self.addButton('=')
 
+row1=[b7,b8,b9,b_add]
+        row2=[b4,b5,b6,b_sub]
+        row3=[b1,b2,b3,b_mult]
+        row4=[b_clear,b0,b_equal,b_div]
+
 
